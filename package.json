@@ -1,6 +1,6 @@
 {
   "name": "sg-travis-mock-project-01",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "description": "Mock project for sg-travis",
   "main": "index.js",
   "scripts": {
